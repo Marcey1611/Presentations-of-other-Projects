@@ -1,10 +1,10 @@
 # Presentations-of-other-Projects
 
-In this repo you can find presentations of other projects which arent present in github.
+In this repo you can find presentations of other projects which aren't in this github profile.
 
-### List of the presentations and their canva links:
+### List of the presentations and links to the canva presentations:
 
-Entwicklung-eines-Programms-und-Konfiguration-eines-Roboters-Presentation
+[Entwicklung-eines-Programms-und-Konfiguration-eines-Roboters-Presentation](./Entwicklung-eines-Programms-und-Konfiguration-eines-Roboters-Presentation.pdf)
 - https://www.canva.com/design/DAF8eRZUfSk/0Frc4aT0Jb8aK_Z5ZkCdKw/edit?utm_content=DAF8eRZUfSk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 Entwicklung-einer-Restaurant-App-mit-modernen-und-innovativen-Elementen-Presentation
